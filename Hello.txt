@@ -5,6 +5,7 @@ dsf
 sadfasdfsf
 jakosipda
 good!
+asdf
 
 1. 저장
 2. git add 작업한 파일
