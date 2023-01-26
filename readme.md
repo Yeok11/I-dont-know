@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=Gondr_World&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
 
 # 어케 놀까요?
-> 색깔 놀이?
+```c
+int main(){printf("%f", a)}
+```
+> 색깔놀이?
+
+
 
 # 너무 힘들어요...
 
