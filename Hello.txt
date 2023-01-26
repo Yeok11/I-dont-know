@@ -1,12 +1,13 @@
 이걸로 코드를 에디팅 합니다.
 Ctrl + s 를 눌러 저장
 Ctrl + ~
-dsf
-sadfasdfsfsdf
-jakosipda
-good!
-asdf
+
+git은 뭔가 파일을 만들고 저장했다면
+1. git add 하고 작업한 파일을 추가해야 한다.
+2. 모든 추가가 완료되었다면 그 상태를 commit해줘야 한다.
+3. 커밋이 끝난 것은 remote에 올리는 작업
 
 1. 저장
 2. git add 작업한 파일
 3. git commit -m "내용"
+4. git push origin[내가 정한 이름] master
